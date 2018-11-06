@@ -1,0 +1,7 @@
+pl\rabowski\jaxrs\dao\FriendDao.class
+pl\rabowski\jaxrs\controller\FriendController.class
+pl\rabowski\jaxrs\model\Address.class
+pl\rabowski\jaxrs\Config.class
+pl\rabowski\jaxrs\util\CORSFilter.class
+pl\rabowski\jaxrs\controller\ReservationsController.class
+pl\rabowski\jaxrs\model\Friend.class
